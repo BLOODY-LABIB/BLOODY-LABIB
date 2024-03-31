@@ -4,7 +4,34 @@
 
 I DON'T CARE WHAT DO YOU THINK ABOUT ME
 
-Skills: SPAMMING /RECOVERY/NOTHING
+Skills: SPAMMING /RECOVERY/TRYING HARD
+<h3 align="center"><b><i>MY INFORMATION <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></i></b></h3>
+
+```go
+package main
+
+import "fmt"
+
+type Person struct {
+  name string
+  username string
+  age int
+  hobbies []string
+  job string
+}
+
+func main() {
+  var me = new(Person)
+  
+  me.name     = "BLOODY LABIB"
+  me.username = "BLOODY-LABIB"
+  me.age      = "15"
+  me.job      = "SPAMMER | LEARNING WEB DEVELOPMENT & HACKING
+  me.hobbies  = []string{"code", "movies", "music"," guiterist"," gaming"}
+  
+  fmt.Println(me)
+}
+```
 
 - 🔭 I’m currently working on BANGLADESH ISLAMIC CYBER PROTECTOR TEAM  
 - 🌱 I’m currently learning WEB DEVELOPMENT /PYTHON/JS/HACKING 
